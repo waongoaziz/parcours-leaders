@@ -7,4 +7,5 @@ hero_description: >-
 
 
   ![Alt text](img/2.apriori.png "Title for image")
+hero_image: https://pixabay.com/get/g3d265fcbb9983b8e7ad8c4bfa485b26c6a75e17dc50a92f8d48a48d2f4cf47014e47301f0e45e1b31bef86ebda801fc7_1920.jpg
 ---
